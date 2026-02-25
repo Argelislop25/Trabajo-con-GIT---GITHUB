@@ -14,3 +14,9 @@ for i in lista :
 print(f'\nla multiplicacion de los elementos lista : {multiplicacion}')
 
 
+
+
+lista.append(4)
+print(f'\nla lonitud actualizada es : {len(lista)}')
+
+
